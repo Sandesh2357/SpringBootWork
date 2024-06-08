@@ -7,7 +7,7 @@ public class CustomizezAuthenticator extends Authenticator {
 
     @Override
     protected PasswordAuthentication getPasswordAuthentication(){
-        return new PasswordAuthentication("sandeshkawatwad6@gmail.com","azcz pbto htdj ffbu");
+        return new PasswordAuthentication("sandeshkawatwad6@gmail.com"," ");
     }
 
 }
